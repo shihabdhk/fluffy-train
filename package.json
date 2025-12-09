@@ -1,0 +1,13 @@
+{
+    "name": "bafsd-jacket-backend",
+    "version": "1.0.0",
+    "description": "A website with a Vercel serverless function.",
+    "main": "api/verify-order.js",
+    "scripts": {
+      "start": "echo 'This is a serverless project, use a local development tool like Next.js or the Vercel CLI to run locally'"
+    },
+    "dependencies": {
+      "firebase-admin": "^13.6.0",
+      "node-fetch": "^2.7.0"
+    }
+  }
